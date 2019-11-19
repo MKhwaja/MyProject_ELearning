@@ -1,0 +1,13 @@
+/* You can add global styles to this file, and also import other style files */
+.loaderCenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20%;
+    width: 3%;
+  }
+
+  body {
+    background:url('/assets/images/bgimage_elearning_blur.jpg') no-repeat center;
+    background-size: cover;
+  }
